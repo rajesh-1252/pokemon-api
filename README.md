@@ -1,8 +1,9 @@
 ## To Get Started
 
-1. npm install
-2. npm run dev
-3. go to http://localhost:3000/
+1. node version used v20.18.2
+2. npm install
+3. npm run dev
+4. go to http://localhost:3000/
 
 ## trade offs
 
