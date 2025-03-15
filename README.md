@@ -6,5 +6,5 @@
 
 ## trade offs
 
-1. Home page is not server side rendered since have have used search and infinate scroll however the individual pokemon page is server side rendered
+1. Home page is not server side rendered since have have used search and infinite scroll however the individual pokemon page is server side rendered
 2. can't able to search the entire pokemon api since we don't have api for that. the current search is filtering the fetched item
